@@ -1,7 +1,3 @@
-## Hi there 👋
-
-## Staff
-
 | Role     | Name          | Discord Username | Minecraft Username |
 | -------- | ------------- | ---------------- | ------------------ |
 | Owner    | Gab           | gaqb             | finals\_           |
